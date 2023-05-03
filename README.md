@@ -1,2 +1,1 @@
-# SQL_Homework
-my sql learning
+*Репозиторий для хранения SQL запросов* 
